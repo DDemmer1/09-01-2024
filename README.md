@@ -11,7 +11,7 @@ Aufgabe 1:
  - erzeugt zwei Objekte dieser Klasse in der ```main-methode```
 
 Aufgabe 2:
-  -Folgende Klasse sollen von ```Message``` erben:
+  - Folgende Klasse sollen von ```Message``` erben:
     - erstellt eine Klasse ```Mail``` mit den Feldern ```String recieverMailAddress```, ```String subject```
     - erstellt eine Klasse ```DirectMessage``` mit dem Feld ```int recieverPhoneNumber```
 
