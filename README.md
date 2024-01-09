@@ -5,6 +5,18 @@ WS23/24 - Vererbung
 
 ### 📝 Aufgabe:
 
+Aufgabe 1:
+ - erstellt eine Klasse ```Message``` mit den Feldern ```String text``` , ```String date```
+ - schreibt einen Konstruktor der die beiden Felder füllt
+ - erzeugt zwei Objekte dieser Klasse in der ```main-methode```
+
+Aufgabe 2:
+  -Folgende Klasse sollen von ```Message``` erben:
+    - erstellt eine Klasse ```Mail``` mit den Feldern ```String recieverMailAddress```, ```String subject```
+    - erstellt eine Klasse ```DirectMessage``` mit dem Feld ```int recieverPhoneNumber```
+
+  - erstellt jeweils ein ```Mail``` und eine ```DirectMessage``` Objekt in der Main methode
+  
 
 
 
